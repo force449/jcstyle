@@ -24,7 +24,7 @@ public class AppConfig {
 	                .driverClassName("com.mysql.jdbc.Driver")
 	                .url("jdbc:mysql://127.0.0.1:3306/company")
 	                .username("root")
-	                .password("!1226Xpzmfhs");	                
+	                .password("!zhoska1226");	                
 	        this.dataSource = factory.build();
 	        return dataSource;
 	    }

@@ -15,7 +15,7 @@ import java.util.Map;
 
 
 
-public class test {
+public class APITest {
 
 
 	@Test
